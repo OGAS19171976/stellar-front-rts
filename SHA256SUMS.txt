@@ -1,0 +1,2 @@
+ef9726e6945b7802e150bfa62e970c77b6b95af2514e564ea6fb8c8d93916a8d  StellarFront-0.16.0-Guide.md
+b8d0d96aa346c16e4b73311a87d8501c73adf48190da832e5aee191068dd758d  StellarFront-0.16.0-Windows-x64.zip
